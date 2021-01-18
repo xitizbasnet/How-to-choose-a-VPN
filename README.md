@@ -1,6 +1,6 @@
 # How-to-choose-a-VPN
 
-------------------------
+
 🗃 How to choose a VPN ? 🗳
 
 The best way to stay secure when using public Wi-Fi is to use a VPN solution, like Norton Secure VPN, which is compatible with Android and iOS smartphones and tablets, as well as Windows PCs and Apple Macs. Here are some questions to ask when you’re choosing a VPN provider.
